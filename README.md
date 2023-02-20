@@ -9,6 +9,7 @@
 
 
 ### Driver https://selenium-python.readthedocs.io/installation.html
+#### packages:
 #### pip install selenium 
 #### python3 -m venv venv
 #### pip install pandas  (excel_reader.py, we can use also pandas, for reading excel file)
